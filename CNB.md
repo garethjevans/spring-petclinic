@@ -3,6 +3,7 @@
 ## Changelog
 
 * added a `.tool-versions` to ensure we are building consistently for `asdf`
+* log jvm information on startup
 
 ## To Build and Run
 
