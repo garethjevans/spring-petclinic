@@ -4,6 +4,7 @@
 
 * added a `.tool-versions` to ensure we are building consistently for `asdf`
 * log jvm information on startup
+* log classpath on startup
 
 ## To Build and Run
 
